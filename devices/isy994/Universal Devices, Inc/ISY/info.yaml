@@ -1,0 +1,10 @@
+entry_type: device
+has_configuration_url: true
+has_suggested_area: false
+has_via_device: false
+manufacturer_name: Universal Devices, Inc
+manufacturer_raw: Universal Devices, Inc
+model_name: ISY
+model_raw: ISY
+versions:
+- software: 5.8.0

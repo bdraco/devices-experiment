@@ -8,3 +8,4 @@ model_name: iPad13,6
 model_raw: iPad13,6
 versions:
 - software: '18.0'
+- software: '16.0'
